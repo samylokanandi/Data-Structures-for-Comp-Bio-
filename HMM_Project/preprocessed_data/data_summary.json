@@ -1,0 +1,14 @@
+{
+  "total_sequences": 7928,
+  "promoters": 3964,
+  "non_promoters": 3964,
+  "sequence_length": 81,
+  "train_size": 6342,
+  "val_size": 793,
+  "test_size": 793,
+  "promoter_gc_mean": 0.4130663626963661,
+  "promoter_gc_std": 0.08817584179893485,
+  "negative_gc_mean": 0.40720185372052176,
+  "negative_gc_std": 0.08954163856078093,
+  "gc_ttest_pvalue": 0.0033154936084432794
+}
